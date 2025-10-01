@@ -79169,7 +79169,7 @@ $S:0}
 A.IM.prototype={
 I(a){return A.aph(A.t_(a).Px(!1),this.c)}}
 A.EY.prototype={
-I(a){var s,r,q,p,o=null,n=1073741823,m=A.hz(a).iY("TABLET"),l=A.bm("About Me",o,o,o,o,o,o,o,A.J(a).p2.d,o,o,o),k=A.bm("I am a senior software engineer with over 3 years of experience, passionate about building high-quality software that addresses real-world problems. I am also a published researcher, having presented work at several conferences.\n\nAs a research scientist, I develop algorithms for biomedical signal processing (e.g., ECG) and apply machine learning techniques. I am proficient in Python, Java, and MATLAB, and experienced with software engineering tools for building research infrastructure. I collaborate with researchers to implement ideas, troubleshoot issues, and leverage technology to advance scientific discovery.",o,o,o,o,o,o,o,A.J(a).p2.e,o,o,o),j=m?B.bF:B.bq,i=t.p,h=A.b([A.bm("Education",o,o,o,o,o,o,o,A.J(a).p2.f.wv(13,B.af),o,o,o),B.br],i)
+I(a){var s,r,q,p,o=null,n=1073741823,m=A.hz(a).iY("TABLET"),l=A.bm("About Me",o,o,o,o,o,o,o,A.J(a).p2.d,o,o,o),k=A.bm("I am a senior software engineer with over 3 years of experience, passionate about building high-quality software that addresses real-world problems. I am also a published researcher, having presented work at several conferences.\n\nAs a research scientist, I develop algorithms for biomedical signal processing (e.g., ECG) and apply machine learning techniques. I am proficient in Python, Java, and MATLAB, and experienced with software engineering tools for building research infrastructure. I collaborate with researchers to implement ideas, troubleshoot issues, and leverage technology to advance scientific discovery.",o,o,o,o,o,o,o,A.J(a).p2.e,o,o,o),j=m?B.bF:B.bq,i=t.p,h=A.b([A.bm("Educations",o,o,o,o,o,o,o,A.J(a).p2.f.wv(13,B.af),o,o,o),B.br],i)
 for(s=$.aLU,r=0;r<2;++r){q=s[r]
 h.push(new A.rW(B.aS,B.q,B.B,B.x,o,B.w,o,A.b([B.Du,B.hH,new A.qJ(1,B.fz,new A.vK(B.aE,B.q,B.B,B.x,o,B.w,o,A.b([new A.e6(A.i(q.j(0,"degree"))+", "+A.i(q.j(0,"year")),o,A.J(a).p2.f.ln(13),o,o,o,o,o,B.kA,o,o,o,o),new A.e6(A.i(q.j(0,"university")),o,A.J(a).p2.f.ln(13),o,o,o,o,o,o,o,o,o,o),new A.e6("GPA: "+A.i(q.j(0,"gpa")),o,A.J(a).p2.f.ln(13),o,o,o,o,o,o,o,o,o,o)],i),o),o)],i),o))}h=A.fT(A.co(h,B.x,B.q,B.B,o,o,B.w),o,o,n,!0,o,1,n)
 s=A.b([A.bm("Interests",o,o,o,o,o,o,o,A.J(a).p2.f.wv(13,B.af),o,o,o),B.br],i)
@@ -79277,7 +79277,7 @@ A.oa.prototype={
 I(a){var s="end_date",r=null,q="MMMM yyyy",p=this.c,o=J.aA(p),n=A.YD(o.j(p,"start_date")),m=o.j(p,s)!=null?A.YD(o.j(p,s)):new A.eg(Date.now(),0,!1),l=A.Yx(q).mR(n),k=o.j(p,s)!=null?A.Yx(q).mR(m):"Present",j=B.h.c5(m.hy(n).a,864e8),i=B.h.c5(j,365),h=B.h.c5(j-i*365,30),g=A.bm(A.i(o.j(p,"position")),r,r,r,r,r,r,r,A.J(a).p2.e.kp(B.af),r,r,r),f=A.bm(A.i(o.j(p,"place")),r,r,r,r,r,r,r,A.J(a).p2.f,r,r,r),e=h>1?"s":""
 return A.co(A.b([g,f,A.bm(l+" - "+k+" \u2022 "+i+" yrs "+h+" mo"+e,r,r,r,r,r,r,r,A.J(a).p2.f,r,r,r),A.bm(A.i(o.j(p,"role")),r,r,r,r,r,r,r,A.J(a).p2.Q,r,r,r),B.br],t.p),B.x,B.q,B.B,r,r,B.w)}}
 A.IE.prototype={
-I(a){var s=null,r=A.hz(a).iY("TABLET"),q=A.bm("Skill",s,s,s,s,s,s,s,A.J(a).p2.d,s,s,s)
+I(a){var s=null,r=A.hz(a).iY("TABLET"),q=A.bm("Skills",s,s,s,s,s,s,s,A.J(a).p2.d,s,s,s)
 return A.d5(s,A.co(A.b([q,B.eJ,A.mg(B.ED,B.Z,B.q,20,r?B.bF:B.bq,B.x,B.d1,30)],t.p),B.Z,B.d1,B.B,s,s,B.w),B.o,s,s,s,s,s,s,s,B.me,s,s,s)}}
 A.tb.prototype={
 I(a){var s=null
